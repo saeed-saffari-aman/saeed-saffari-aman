@@ -1,4 +1,4 @@
 ## Current Research Overview 👋
 
 As a PhD student in Artificial Intelligence, my current research focuses on developing a proposed hybrid model for analyzing chest X-ray (CXR) images of patients with tuberculosis. This topic has been chosen to address the need for more accurate and efficient diagnostic tools that can assist healthcare professionals in early detection and treatment planning. The research will utilize various datasets, including those from Qatar University, MC, Shenzhen, and Pakistan, and will employ advanced techniques such as data preprocessing, noise removal, and data augmentation through DCGAN. The proposed model integrates innovative architectures using Vision Transformers (ViT) for processing CXR images and will ultimately present results using explainable AI (XAI) methods in the form of heatmap visualizations.
--->
+
